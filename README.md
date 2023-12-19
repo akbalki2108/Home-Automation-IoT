@@ -6,7 +6,7 @@ This project is a Home Automation system based on the Internet of Things (IoT) t
 ## Features
 - Remote control of home devices and sensors via web interface and Android app.
 - Energy-saving through efficient control of lights, temperature, and appliances.
-- Enhanced security with features like motion sensors, security cameras, and smart doors.
+- Enhanced security with features like motion sensors, and smart doors.
 - Better accessibility for people with disabilities through easy device control.
 - Personalization of settings to suit individual needs and lifestyles.
 - Data insights on energy consumption and usage to make informed decisions.
