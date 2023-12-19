@@ -37,14 +37,14 @@ This project is a Home Automation system based on the Internet of Things (IoT) t
 6. Customize settings to personalize the system according to your preferences and needs.
 
 ## Images
-
-<img src='https://github.com/akbalki2108/Home-Automation-IoT/blob/main/SE_IoT.png'  height="300">
-<img src='https://github.com/akbalki2108/Home-Automation-IoT/blob/main/SE_IoT4.png'  height="300">
-<img src='https://github.com/akbalki2108/Home-Automation-IoT/blob/main/SE_IoT5.png'  height="300">
-<img src='https://github.com/akbalki2108/Home-Automation-IoT/blob/main/SE_IoT3.png'  height="300">
-
-<img src='https://github.com/akbalki2108/Home-Automation-IoT/blob/main/SE_IoT1.png'  height="300">
-<img src='https://github.com/akbalki2108/Home-Automation-IoT/blob/main/SE_IoT2.png'  height="300">
+note: image does't load with jio/fiber network but loads with other networks<br>
+<img src='https://github.com/akbalki2108/Home-Automation-IoT/blob/main/SE_IoT.png'  height="300px">
+<img src='https://github.com/akbalki2108/Home-Automation-IoT/blob/main/SE_Iot3.png'  height="300px">
+<img src='https://github.com/akbalki2108/Home-Automation-IoT/blob/main/SE_Iot4.png'  height="300px">
+<img src='https://github.com/akbalki2108/Home-Automation-IoT/blob/main/SE_Iot5.png'  height="300px">
+<br>
+<img src='https://github.com/akbalki2108/Home-Automation-IoT/blob/main/SE_IoT1.png'  height="300px">
+<img src='https://github.com/akbalki2108/Home-Automation-IoT/blob/main/SE_IoT2.png'  height="300px">
 
 ## Contact
 Aditya Balki - [@Linkedin_handle](https://www.linkedin.com/in/aditya-balki-586454217) - akbalki208012@gmail.com
